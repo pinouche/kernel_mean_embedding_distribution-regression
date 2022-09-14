@@ -1,4 +1,3 @@
-# Instance-kme-MIR
 KDD 2019 workshop paper
 
 This is a multiple instance regression algorithm using stacking-like approach and kernel mean embedding on the predictions.
